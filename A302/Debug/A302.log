@@ -1,0 +1,9 @@
+﻿  main.c
+d:\spbpu\skrutimizer\a302\main.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\spbpu\skrutimizer\a302\main.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\spbpu\skrutimizer\a302\main.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  A302.vcxproj -> D:\SPbPU\Skrutimizer\A302\Debug\A302.exe
+  A302.vcxproj -> D:\SPbPU\Skrutimizer\A302\Debug\A302.pdb (Full PDB)

@@ -1,0 +1,3 @@
+;_CRT_SECURE_NO_WARNINGS
+freopen("a.in", "rt", stdin);
+  freopen("a.out", "wt", stdout);
